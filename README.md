@@ -14,27 +14,31 @@ The HR Dashboard is designed to offer a comprehensive view of HR data, catering 
 
 **1. Summary View Sections:**
 
-**Overview:** Key metrics and visualizations summarizing workforce dynamics across departments, cities, states, and headquarters vs. branches.
+  **Overview:** Key metrics and visualizations summarizing workforce dynamics across departments, cities, states, and headquarters vs. branches.
 
-**Demographics:** Insights into workforce composition, including gender ratios, age, education, and correlations between educational background and performance.
+  **Demographics:** Insights into workforce composition, including gender ratios, age, education, and correlations between educational background and performance.
 
-**Income Analysis:** Salary comparisons across education levels, gender, and departments, along with age-salary correlations.
+  **Income Analysis:** Salary comparisons across education levels, gender, and departments, along with age-salary correlations.
 
 **2. Employee Records View:**
 
-A comprehensive, filterable list of employees with attributes like name, department, position, gender, age, education, and salary.
+  A comprehensive, filterable list of employees with attributes like name, department, position, gender, age, education, and salary.
 
 ## Data Insights Expectations
 
-**Hiring and Termination Trends:** Visualizing trends over time to highlight periods of high activity.
-**Department and Job Title Metrics:** Understanding workforce distribution and identifying high-performing or understaffed areas.
-**Demographics Insights:** Identifying diversity patterns, age groups requiring tailored interventions, and the impact of education on performance.
-**Income Patterns:** Highlighting gender pay gaps, education-related salary differences, and department-level salary trends.
+  **Hiring and Termination Trends:** Visualizing trends over time to highlight periods of high activity.
+
+  **Department and Job Title Metrics:** Understanding workforce distribution and identifying high-performing or understaffed areas.
+
+  **Demographics Insights:** Identifying diversity patterns, age groups requiring tailored interventions, and the impact of education on performance.
+
+  **Income Patterns:** Highlighting gender pay gaps, education-related salary differences, and department-level salary trends.
 
 ## Data Interaction
 
-Users will interact with intuitive visualizations (charts, graphs, and tables).
-Dynamic filtering will allow customization of insights, enabling HR managers to pinpoint specific trends and anomalies.
+  Users will interact with intuitive visualizations (charts, graphs, and tables).
+
+  Dynamic filtering will allow customization of insights, enabling HR managers to pinpoint specific trends and anomalies.
 
 ## Dashboard Interaction
 <a href="https://public.tableau.com/app/profile/sagar.gaikwad1910/viz/HRDashboard_17330466165040/HRDetails?publish=yes"> Tableau Dashboard </a>
