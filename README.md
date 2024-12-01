@@ -3,7 +3,7 @@
 
 The HR Dashboard is designed to offer a comprehensive view of HR data, catering to both high-level insights and granular analysis of employee records. The core focus areas include:
 
-**Summary View: ** Offering insights into workforce dynamics, including headcount trends, demographic analysis, and income patterns.
+**Summary View:** Offering insights into workforce dynamics, including headcount trends, demographic analysis, and income patterns.
 
 **Employee Records View:** Providing detailed employee information with advanced filtering options for in-depth analysis.
 
