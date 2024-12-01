@@ -1,6 +1,11 @@
 # HR Dashboard Analysis
-## Project Objective
-The HR manager wants a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.
+## Overview of Requirements
+
+The HR Dashboard is designed to offer a comprehensive view of HR data, catering to both high-level insights and granular analysis of employee records. The core focus areas include:
+
+**Summary View: ** Offering insights into workforce dynamics, including headcount trends, demographic analysis, and income patterns.
+
+**Employee Records View:** Providing detailed employee information with advanced filtering options for in-depth analysis.
 
 ## Dateset Used
 <a href="https://github.com/Sagar472820/Guided_Projects/blob/main/HumanResources.csv"> HR Dataset </a>
