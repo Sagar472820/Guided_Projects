@@ -41,11 +41,13 @@ The HR Dashboard is designed to offer a comprehensive view of HR data, catering 
   Dynamic filtering will allow customization of insights, enabling HR managers to pinpoint specific trends and anomalies.
 
 ## Dashboard Interaction
-<a href="https://public.tableau.com/app/profile/sagar.gaikwad1910/viz/HRDashboard_17330466165040/HRDetails?publish=yes"> Tableau Dashboard </a>
+<a href="https://public.tableau.com/app/profile/sagar.gaikwad1910/viz/HRDashboard_17330466165040/HRSummary?publish=yes"> Tableau Dashboard </a>
 
 ## Dashboard Review
-![HR Dashboard_1](https://github.com/user-attachments/assets/1f5287c1-d221-4672-9897-888be606c3de)
-![HR Dashboard_2](https://github.com/user-attachments/assets/5790dbe8-41e5-40ba-8607-7b6e174a7ff4)
+![HR Dashboard_1](https://github.com/user-attachments/assets/100961ef-10a7-4654-9a68-2a2fe972f050)
+
+![HR Dashboard_2](https://github.com/user-attachments/assets/ec68243d-a346-4bfe-8c36-87d7b34f8673)
+
 
 ## Final Conclusion
 
