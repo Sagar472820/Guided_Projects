@@ -12,7 +12,7 @@ The HR Dashboard is designed to offer a comprehensive view of HR data, catering 
 
 ## Key Functional Components
 
-**Summary View Sections:**
+**1. Summary View Sections:**
 
 **Overview:** Key metrics and visualizations summarizing workforce dynamics across departments, cities, states, and headquarters vs. branches.
 
@@ -20,16 +20,19 @@ The HR Dashboard is designed to offer a comprehensive view of HR data, catering 
 
 **Income Analysis:** Salary comparisons across education levels, gender, and departments, along with age-salary correlations.
 
-**Employee Records View:**
+**2. Employee Records View:**
 
 A comprehensive, filterable list of employees with attributes like name, department, position, gender, age, education, and salary.
 
-Data Insights Expectations
-Hiring and Termination Trends: Visualizing trends over time to highlight periods of high activity.
-Department and Job Title Metrics: Understanding workforce distribution and identifying high-performing or understaffed areas.
-Demographics Insights: Identifying diversity patterns, age groups requiring tailored interventions, and the impact of education on performance.
-Income Patterns: Highlighting gender pay gaps, education-related salary differences, and department-level salary trends.
-Data Interaction
+## Data Insights Expectations
+
+**Hiring and Termination Trends:** Visualizing trends over time to highlight periods of high activity.
+**Department and Job Title Metrics:** Understanding workforce distribution and identifying high-performing or understaffed areas.
+**Demographics Insights:** Identifying diversity patterns, age groups requiring tailored interventions, and the impact of education on performance.
+**Income Patterns:** Highlighting gender pay gaps, education-related salary differences, and department-level salary trends.
+
+## Data Interaction
+
 Users will interact with intuitive visualizations (charts, graphs, and tables).
 Dynamic filtering will allow customization of insights, enabling HR managers to pinpoint specific trends and anomalies.
 
