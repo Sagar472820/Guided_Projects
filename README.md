@@ -47,7 +47,7 @@ The HR Dashboard is designed to offer a comprehensive view of HR data, catering 
 ![HR Dashboard_1](https://github.com/user-attachments/assets/1f5287c1-d221-4672-9897-888be606c3de)
 ![HR Dashboard_2](https://github.com/user-attachments/assets/5790dbe8-41e5-40ba-8607-7b6e174a7ff4)
 
-### Final Conclusion
+## Final Conclusion
 
 This HR Dashboard project is a robust analytics tool for HR managers to make informed, data-driven decisions. By integrating summary and detailed views, it empowers users to:
 
