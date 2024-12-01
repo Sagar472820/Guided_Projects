@@ -12,6 +12,7 @@ The summary view should be divided into three main sections: Overview, Demograph
 ## Overview
 
 The Overview section should provide a snapshot of the overall HR metrics, including:
+
 •	Display the total number of hired employees, active employees, and terminated employees.
 •	Visualize the total number of hired and terminated employees over the years.
 •	Present a breakdown of total employees by department and job titles.
@@ -21,6 +22,7 @@ The Overview section should provide a snapshot of the overall HR metrics, includ
 ## Demographics
 
 The Demographics section should offer insights into the composition of the workforce, including:
+
 •	Present the gender ratio in the company.
 •	Visualize the distribution of employees across age groups and education levels.
 •	Show the total number of employees within each age group.
@@ -30,6 +32,7 @@ The Demographics section should offer insights into the composition of the workf
 ## Income
 
 The income analysis section should focus on salary-related metrics, including:
+
 •	Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
 •	Present how age correlates with the salary for employees in each department.
 
